@@ -99,7 +99,7 @@ expertise = {
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=900&color=00F5A0&center=true&vCenter=true&multiline=false&width=380&lines=⣤⣤⣀⣀⣀⣀⣤⣤;⣿+%E2%97%8F+%E2%94%80+%E2%94%80+%E2%97%8F+%E2%97%8F+⣿+%7C+booting+AI+core...;⣿+%E2%97%8B+%E2%94%80+%E2%94%80+%E2%97%8B+%E2%97%88+⣿+%7C+loading+LLMs...;⣿+%E2%97%8F+%E2%94%80+%E2%94%80+%E2%97%8B+%E2%97%8B+⣿+%7C+fine-tuning...;⣿+%E2%97%88+%E2%94%80+%E2%94%80+%E2%97%88+%E2%97%8F+⣿+%7C+RAG+pipeline+ready;⣿+%5E+%E2%94%80+%E2%94%80%E2%94%80+%5E+⣿+%7C+agents+deployed!;⣤⣤⣀⣀⣀⣀⣤⣤+%7C+%3E+system+online_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=00F5A0&center=true&vCenter=true&multiline=false&width=380&lines=⣤⣤⣀⣀⣀⣀⣤⣤;⣿+%E2%97%8F+%E2%94%80+%E2%94%80+%E2%97%8F+%E2%97%8F+⣿+%7C+booting+AI+core...;⣿+%E2%97%8B+%E2%94%80+%E2%94%80+%E2%97%8B+%E2%97%88+⣿+%7C+loading+LLMs...;⣿+%E2%97%8F+%E2%94%80+%E2%94%80+%E2%97%8B+%E2%97%8B+⣿+%7C+fine-tuning...;⣿+%E2%97%88+%E2%94%80+%E2%94%80+%E2%97%88+%E2%97%8F+⣿+%7C+RAG+pipeline+ready;⣿+%5E+%E2%94%80+%E2%94%80%E2%94%80+%5E+⣿+%7C+agents+deployed!;⣤⣤⣀⣀⣀⣀⣤⣤+%7C+%3E+system+online_)](https://git.io/typing-svg)
 
 <br/>
 

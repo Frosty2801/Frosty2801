@@ -21,7 +21,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 
 # ⚡ Tech Stack
 
-🤖 AI / LLM
+# 🤖 AI / LLM
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5A0)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F5A0)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F5A0)

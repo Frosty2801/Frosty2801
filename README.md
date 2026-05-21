@@ -1,5 +1,5 @@
 <div align="center"text="20px">
-Hey, Daniel 👾 AI Engineer · LLM Specialist · Automation Builder
+Hey, im Daniel 👾 AI Engineer · LLM Specialist · Automation Builder
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;⣤⣤⣀⣀⣤⣤;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣤⣤⣀⣀⣤⣤;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⠿⣤⣀⣀⣤⠿;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣤⣤⣀⣀⣤⣤;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⠿⠿⠶⠶⠿⠿;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
 

@@ -41,28 +41,12 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 
 [![My Skills](https://skillicons.dev/icons?i=git,github&theme=light)](https://skillicons.dev)
 
-![Scrum](https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=009FDA)
 ![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
 
 
 </div>
----
-
-# 🧩 Areas of Expertise
-
-```python
-expertise = {
-    "LLMs":           ["Prompt Engineering", "Fine-tuning", "RLHF", "RAG Pipelines"],
-    "Agents":         ["LangGraph", "LangChain", "Multi-agent systems", "Tool calling"],
-    "Automation":     ["n8n workflows", "API integrations", "Event-driven pipelines"],
-    "Infrastructure": ["Docker", "PostgreSQL", "REST APIs", "Vector DBs"],
-    "Process":        ["Scrum", "Jira", "GitFlow", "CI/CD mindset"],
-}
-```
 
 ---
-
-# 📊 GitHub Stats
 
 <div align="center">
 
@@ -75,24 +59,6 @@ expertise = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Frosty2801&theme=dark&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0)](https://git.io/streak-stats)
 
-</div>
-
----
-
-# 🚀 What I Build
-
-| Domain | What I do |
-|--------|-----------|
-| 🤖 **LLM Applications** | RAG systems, chatbots, document intelligence pipelines |
-| 🕸️ **AI Agents** | Multi-step agents with tool use and memory via LangGraph |
-| ⚙️ **Automation** | End-to-end n8n workflows connecting APIs, DBs, and AI models |
-| 🧬 **Fine-tuning** | Custom model training on domain-specific datasets |
-| 🗄️ **Data & Infra** | PostgreSQL + vector DBs + Dockerized microservices |
-
----
-
-<div align="center">
-    
 📬 Let's Connect
 
 [![LinkIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-gutierrez-echavarria-dev)
@@ -100,14 +66,11 @@ expertise = {
 
 </div>
 
----
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;⣤⣤⣀⣀⣤⣤;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣤⣤⣀⣀⣤⣤;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⠿⣤⣀⣀⣤⠿;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣤⣤⣀⣀⣤⣤;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⠿⠿⠶⠶⠿⠿;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
 
 ![Powered by LLMs](https://img.shields.io/badge/Powered%20by-LLMs-00F5A0?style=for-the-badge&logo=openai&logoColor=black)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Frosty2801&color=00F5A0&style=flat-square&label=Profile+Views)
 
 </div>

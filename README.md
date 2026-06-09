@@ -27,6 +27,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F5A0)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F5A0)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F5A0)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
@@ -34,7 +35,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,docker&theme=light)](https://skillicons.dev)
 
-![n8n](https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 📋 Workflow & Collaboration
 
@@ -94,8 +95,8 @@ expertise = {
     
 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](www.linkedin.com/in/jose-daniel-gutierrez-echavarria-858aba351)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jdgutierrez722019@gmail.com)
+[![LinkIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-gutierrez-echavarria-dev)
+[![Gmail](https://skillicons.dev/icons?i=gmail)]()
 
 </div>
 

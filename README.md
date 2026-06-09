@@ -23,7 +23,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
     
 ⚡ Tech Stack - LLMs and Machine Learning Focus (In Progress)
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,pytorch&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,scikitlearn,pytorch&theme=dark)](https://skillicons.dev)
 
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F5A0)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F5A0)

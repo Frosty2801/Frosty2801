@@ -1,10 +1,10 @@
 <div align="center">
-    
+
 [![Name](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=9999&color=E8FFF4&center=true&vCenter=true&width=600&lines=Daniel+Gutiérrez)](https://git.io/typing-svg)
- 
+
 [![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=9999&color=3a7a58&center=true&vCenter=true&width=600&lines=AI+Engineer+·+ML+Developer+·+Automation+Builder)](https://git.io/typing-svg)
- 
-[![Glitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&lines=Build+·+Ship+·+Iterate;Model+·+Loss+·+Optimize;Train+·+Testing+·+Prediction;Prompt+·+Retrieve+·+Generate;Automate+·+Scale+·+Optimize;Design+·+Architect+·+Execute)](https://git.io/typing-svg)
+
+[![Glitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&lines=Build+·+Ship+·+Iterate;Model+·+Loss+·+Optimize;Train+·+Test+·+Predict;Prompt+·+Retrieve+·+Generate;Automate+·+Scale+·+Optimize;Design+·+Architect+·+Execute)](https://git.io/typing-svg)
  
 [![Cats](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;⣤⣤⣀⣀⣤⣤;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣤⣤⣀⣀⣤⣤;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⠿⣤⣀⣀⣤⠿;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣤⣤⣀⣀⣤⣤;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⠿⠿⠶⠶⠿⠿;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
  

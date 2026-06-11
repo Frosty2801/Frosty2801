@@ -4,7 +4,7 @@
  
 [![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=9999&color=3a7a58&center=true&vCenter=true&width=600&lines=AI+Engineer+·+ML+Developer+·+Automation+Builder)](https://git.io/typing-svg)
  
-[![Glitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&lines=Build+·+Ship+·+Iterate;Model+·+Loss+·+Optimizer;Train+·+Testing+·+Deploy;Prompt+·+Retrieve+·+Generate;Automate+·+Scale+·+Optimize;Design+·+Architect+·+Execute)](https://git.io/typing-svg)
+[![Glitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&lines=Build+·+Ship+·+Iterate;Model+·+Loss+·+Optimize;Train+·+Testing+·+Deploy;Prompt+·+Retrieve+·+Generate;Automate+·+Scale+·+Optimize;Design+·+Architect+·+Execute)](https://git.io/typing-svg)
  
 [![Cats](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;⣤⣤⣀⣀⣤⣤;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣤⣤⣀⣀⣤⣤;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⠿⣤⣀⣀⣤⠿;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣤⣤⣀⣀⣤⣤;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⠿⠿⠶⠶⠿⠿;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
  
@@ -18,7 +18,7 @@ About Me
 
 I'm an **AI/ML Engineer** focused on building real-world applications powered by large language models and machine learning fundamentals. I specialize in the full lifecycle of AI development — from **RAG architectures** and **autonomous agents** to **training models** and **neuronal links**.
 
-- 🔭 Currently building and learning neuronal links with **pytorch**
+- 🔭 Currently building and learning neural networks with **pytorch**
 - 🤖 Passionate about **LLM agents**, **multi-step reasoning**, and **workflow automation**
 - ⚙️ I automate workflows so humans can focus on what actually matters
 - 🧪 Always experimenting with the latest in the AI/ML ecosystem
@@ -31,13 +31,15 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,scikitlearn,pytorch&theme=dark)](https://skillicons.dev)
 
+🤖 AI & Agent Frameworks
+
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=00F5A0)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=00F5A0)
-![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=00F5A0)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0D1117?style=for-the-badge&logo=openai&logoColor=00F5A0)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=00F5A0)
 
-🛠️ Automation - Data Infraestructure
+🛠️ Automation & Data Infrastructure
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,docker&theme=light)](https://skillicons.dev)
 

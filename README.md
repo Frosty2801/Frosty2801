@@ -31,6 +31,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 <div align="center">
 
 ## ⚡ Tech Stack
+
 ┬─┬ノ(º_ºノ)
 
 ### 🧬 Core Languages & ML
@@ -55,6 +56,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 ![Scrum](https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=009FDA)
 
 (╯°□°)╯︵┻━┻
+
 </div>
 
 ---

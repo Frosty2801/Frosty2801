@@ -6,9 +6,10 @@
 
 [![Glitch](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00F5A0&center=true&vCenter=true&width=600&lines=Build+·+Ship+·+Iterate;Model+·+Loss+·+Optimize;Train+·+Test+·+Predict;Prompt+·+Retrieve+·+Generate;Automate+·+Scale+·+Optimize;Design+·+Architect+·+Execute)](https://git.io/typing-svg)
  
-[![Cats](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;⣤⣤⣀⣀⣤⣤;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣤⣤⣀⣀⣤⣤;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⠿⣤⣀⣀⣤⠿;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣤⣤⣀⣀⣤⣤;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⠿⠿⠶⠶⠿⠿;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
+[![Cats](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=500&color=00F5A0&center=true&vCenter=true&width=420&lines=⣿+-+ω+-+⣿+sleepy...;⣿+%5E+ω+%5E+⣿+awake!;⣿+=+ω+=+⣿+zzzz...;┬─┬ノ(º_ºノ)...!!!;(╯°□°)╯︵┻━┻!!!!;⣿+◉+w+◉+⣿+hacking...;⣿+◈+w+◈+⣿+scanning...;⣿+●+w+●+⣿+locked+in;⣿+○+∧+○+⣿+curious?;⣿+◉+∧+◉+⣿+found+it!;⣿+●+∧+●+⣿+on+it...;⣿+>+w+<+⣿+derp;⣿+>+ω+<+⣿+what?;⣿+%5E+w+%5E+⣿+huh??;⣿+~+ᴗ+~+⣿+at+peace;⣿+-+ᴗ+-+⣿+breathing...;⣿+·+ᴗ+·+⣿+zen+mode;⣿+>+Д+<+⣿+BUG!!;⣿+◣+Д+◢+⣿+deploying...;⣿+>+Д+<+⣿+WHY!!;⣿+◉+─+◉+⣿+loading+AI...;⣿+◈+─+◈+⣿+training...;⣿+○+─+○+⣿+inference+ok;⣿+%5E+ω+%5E+⣿+wink+>;⣿+-+ω+%5E+⣿+>;⣿+%5E+ω+-+⣿+<+wink)](https://git.io/typing-svg)
  
 </div>
+
 
 ---
 
@@ -30,6 +31,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 <div align="center">
 
 ## ⚡ Tech Stack
+┬─┬ノ(º_ºノ)
 
 ### 🧬 Core Languages & ML
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,nodejs,scikitlearn,pytorch&theme=dark)](https://skillicons.dev)
@@ -52,6 +54,7 @@ I'm an **AI/ML Engineer** focused on building real-world applications powered by
 ![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![Scrum](https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance&logoColor=009FDA)
 
+(╯°□°)╯︵┻━┻
 </div>
 
 ---
